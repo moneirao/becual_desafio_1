@@ -1,8 +1,8 @@
-# becual_desafio_1
-Desarrollo de desafio 1 Becual.
+# becual_desafio_2
+Desarrollo de desafio #2 Becual.
 
 Para ejecutar este proyecto, debe hacer lo siguiente:
-+ Descargue el proyecto en su computador
-+ Ingresar a su linea de comando y entrar a la carpeta **Becual**
++ Descargue el archivo **becual_desafio_2.js** en su computador
++ Abra el archivo e ingrese 
 + Luego de esto, debe ejecutar el siguiente comando: **DEBUG=myapp:* npm start**  
 + Finalmente ingrese a la siguiente ruta: <http://localhost:3000>
